@@ -46,6 +46,7 @@
   - `yarn add express`
   - `yarn add cors`
   - `yarn add -D typescript`
+  - `yarn add -D @types/node @types/express`
   - `yarn add -D ts-node-dev`
   - `yarn add -D eslint prettier eslint-config-prettier eslint-plugin-prettier`
 
