@@ -1,4 +1,4 @@
-#step-by-step
+# step-by-step
 
 - go to github.com
 
